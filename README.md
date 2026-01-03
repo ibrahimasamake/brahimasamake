@@ -1,5 +1,4 @@
 ```markdown
-Europass CV — Ibrahima Samake
 
 PERSONAL INFORMATION
 Full name: Ibrahima Samake
@@ -68,7 +67,4 @@ ADDITIONAL INFORMATION
 ANNEXES
 - Project summaries (Sougba marketplace, conference site)
 - Links to GitHub repositories and live demos (where available)
-
-FINAL NOTES
-This Europass CV is written to be factual and ATS‑friendly. It highlights practical experience, technical skills, and ongoing learning relevant for EU/German employers.
 ```
