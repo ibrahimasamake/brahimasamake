@@ -3,12 +3,11 @@
 PERSONAL INFORMATION
 Full name: Ibrahima Samake
 Address: Bangalore, India
-Telephone: +91 74110 38974
 Email: ibrahimasamake@sougba.shop
 GitHub: https://github.com/ibrahimasamake
 LinkedIn: https://linkedin.com/in/ibrahimasamake
-Nationality: Malian
-Date of birth: 23 October 1995
+
+
 
 JOB APPLIED FOR
 Full-Stack Software Developer
