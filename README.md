@@ -3,7 +3,7 @@
 ### Full-Stack Software Developer
 
 📍 Bangalore, India  
-📧 [ibrahimasamake@sougba.shop](mailto:ibrahimasamake@sougba.com)  
+📧 [ibrahimasamake@sougba.com](mailto:ibrahimasamake@sougba.com)  
 🔗 [LinkedIn](https://linkedin.com/in/ibrahimasamake) · [GitHub](https://github.com/ibrahimasamake)
 
 ---
